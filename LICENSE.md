@@ -1,6 +1,6 @@
-MIT License
+## MIT License
 
-Copyright (c) 2023 Scyye
+**Copyright (c) 2023 Scyye/Spork Handle Games**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## For Modders
+
+**Copyright (c) 20[23] Developer/Spork Handle Games**
+
+Any rights listed above under "MIT LICENSE" apply here.
+Modders MUST license their work under an MIT License if GalaxyTweaks is in
+anyway used in their software.
+
+If you are found by myself (Scyye) or Spork Handle Games to have pirated or
+illegaly obtained a/any copy/copies of "Galaxy Moon", we reserve the right
+to take down your work under piracy laws.
