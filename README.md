@@ -9,7 +9,7 @@ From the steam page (Not Up Yet), or Spork Handle's website: https://bit.ly/spor
 From here: https://github.com/Scyye/GalaxyTweaks/releases/
 
 #3: Run the Launcher
-Run the GalaxyTweaks launcher from https://github.com/Scyye/GalaxyTweaks/releases/
+from https://github.com/Scyye/GalaxyTweaks/releases/
 
 #4: Launch the game from the launcher
 Using any mods you installed, you can launch the game now and play with mods!
